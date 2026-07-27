@@ -114,9 +114,12 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 ## OUTPUT:
-<img width="340" height="208" alt="image" src="https://github.com/user-attachments/assets/2f891e64-4f62-4bfd-8ae1-a6f7fc3db0c9" />
+<img width="219" height="134" alt="image" src="https://github.com/user-attachments/assets/08d2915d-6c6a-45c7-8df6-d0304e6d14a1" />
 
-<img width="102" height="131" alt="image" src="https://github.com/user-attachments/assets/7da3aaa8-af7d-49b4-85f7-4486f7b1fec5" />
+
+
+<img width="189" height="86" alt="image" src="https://github.com/user-attachments/assets/e260dbaf-ab0b-4946-84c7-3013caecabf6" />
+
 
 
 <hr>
